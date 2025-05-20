@@ -1,1 +1,1 @@
-Building [d4s](https://github.com/mattlianje/d4s)
+Building [d4](https://github.com/mattlianje/d4s) - quiet power for data
